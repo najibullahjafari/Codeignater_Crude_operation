@@ -1,0 +1,831 @@
+CRITICAL - 2024-07-11 11:17:10 --> ParseError: syntax error, unexpected identifier "c"
+[Method: GET, Route: students]
+in APPPATH\Controllers\StudentController.php on line 73.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Controllers\\StudentController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\StudentController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\StudentController')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\StudentController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4-framework-be27314\\public\\index.php')
+CRITICAL - 2024-07-11 11:18:26 --> ParseError: syntax error, unexpected identifier "c"
+[Method: GET, Route: students]
+in APPPATH\Controllers\StudentController.php on line 73.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Controllers\\StudentController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\StudentController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\StudentController')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\StudentController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4-framework-be27314\\public\\index.php')
+CRITICAL - 2024-07-11 11:22:27 --> ParseError: syntax error, unexpected identifier "c"
+[Method: GET, Route: students]
+in APPPATH\Controllers\StudentController.php on line 73.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Controllers\\StudentController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\StudentController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\StudentController')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\StudentController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4-framework-be27314\\public\\index.php')
+CRITICAL - 2024-07-11 11:23:26 --> ParseError: syntax error, unexpected identifier "c"
+[Method: GET, Route: students]
+in APPPATH\Controllers\StudentController.php on line 73.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Controllers\\StudentController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\StudentController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\StudentController')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\StudentController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4-framework-be27314\\public\\index.php')
+CRITICAL - 2024-07-11 11:36:04 --> Error: Class "App\Controllers\Controllers" not found
+[Method: GET, Route: students]
+in APPPATH\Controllers\StudentController.php on line 5.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(317): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Controllers\\StudentController.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\StudentController')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\StudentController')
+ 5 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\StudentController', true)
+ 6 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4-framework-be27314\\public\\index.php')
+CRITICAL - 2024-07-11 11:36:52 --> Error: Class "CodeIgniter\Controllers" not found
+[Method: GET, Route: students]
+in APPPATH\Controllers\StudentController.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(317): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Controllers\\StudentController.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\StudentController')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\StudentController')
+ 5 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\StudentController', true)
+ 6 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4-framework-be27314\\public\\index.php')
+CRITICAL - 2024-07-11 11:39:39 --> Error: Class "App\Controllers\Controllers" not found
+[Method: GET, Route: students]
+in APPPATH\Controllers\StudentController.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(317): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Controllers\\StudentController.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\StudentController')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\StudentController')
+ 5 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\StudentController', true)
+ 6 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4-framework-be27314\\public\\index.php')
+CRITICAL - 2024-07-11 11:57:15 --> ErrorException: Undefined variable $students
+[Method: GET, Route: student]
+in APPPATH\Views\students.php on line 11.
+ 1 APPPATH\Views\students.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Views\\students.php', 11)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('students', [], true)
+ 5 APPPATH\Controllers\Student.php(12): view('students')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Student->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4-framework-be27314\\public\\index.php')
+CRITICAL - 2024-07-11 11:57:29 --> ErrorException: Undefined variable $students
+[Method: GET, Route: student]
+in APPPATH\Views\students.php on line 11.
+ 1 APPPATH\Views\students.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Views\\students.php', 11)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('students', [], true)
+ 5 APPPATH\Controllers\Student.php(12): view('students')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Student->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4-framework-be27314\\public\\index.php')
+CRITICAL - 2024-07-11 12:04:48 --> ErrorException: Undefined variable $students
+[Method: GET, Route: student]
+in APPPATH\Views\students.php on line 11.
+ 1 APPPATH\Views\students.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Views\\students.php', 11)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('students', [], true)
+ 5 APPPATH\Controllers\Student.php(12): view('students')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Student->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4-framework-be27314\\public\\index.php')
+CRITICAL - 2024-07-11 12:06:51 --> ErrorException: Undefined variable $students
+[Method: GET, Route: student]
+in APPPATH\Views\students.php on line 11.
+ 1 APPPATH\Views\students.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Views\\students.php', 11)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('students', [], true)
+ 5 APPPATH\Controllers\Student.php(12): view('students')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Student->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4-framework-be27314\\public\\index.php')
+CRITICAL - 2024-07-11 12:20:19 --> ErrorException: Undefined variable $students
+[Method: GET, Route: student]
+in APPPATH\Views\students.php on line 11.
+ 1 APPPATH\Views\students.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Views\\students.php', 11)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('students', [], true)
+ 5 APPPATH\Controllers\Student.php(12): view('students')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Student->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4-framework-be27314\\public\\index.php')
+CRITICAL - 2024-07-11 12:20:21 --> ErrorException: Undefined variable $students
+[Method: GET, Route: student]
+in APPPATH\Views\students.php on line 11.
+ 1 APPPATH\Views\students.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Views\\students.php', 11)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('students', [], true)
+ 5 APPPATH\Controllers\Student.php(12): view('students')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Student->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4-framework-be27314\\public\\index.php')
+CRITICAL - 2024-07-11 12:20:25 --> ErrorException: Undefined variable $students
+[Method: GET, Route: student]
+in APPPATH\Views\students.php on line 11.
+ 1 APPPATH\Views\students.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Views\\students.php', 11)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('students', [], true)
+ 5 APPPATH\Controllers\Student.php(12): view('students')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Student->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4-framework-be27314\\public\\index.php')
+CRITICAL - 2024-07-11 12:20:27 --> ErrorException: Undefined variable $students
+[Method: GET, Route: student]
+in APPPATH\Views\students.php on line 11.
+ 1 APPPATH\Views\students.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Views\\students.php', 11)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('students', [], true)
+ 5 APPPATH\Controllers\Student.php(12): view('students')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Student->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4-framework-be27314\\public\\index.php')
+CRITICAL - 2024-07-11 12:22:25 --> ErrorException: Undefined variable $students
+[Method: GET, Route: student]
+in APPPATH\Views\students.php on line 11.
+ 1 APPPATH\Views\students.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Views\\students.php', 11)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('students', [], true)
+ 5 APPPATH\Controllers\Student.php(12): view('students')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Student->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4-framework-be27314\\public\\index.php')
+CRITICAL - 2024-07-11 12:22:35 --> ErrorException: Undefined variable $students
+[Method: GET, Route: student]
+in APPPATH\Views\students.php on line 11.
+ 1 APPPATH\Views\students.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Views\\students.php', 11)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('students', [], true)
+ 5 APPPATH\Controllers\Student.php(12): view('students')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Student->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4-framework-be27314\\public\\index.php')
+CRITICAL - 2024-07-11 12:24:35 --> ErrorException: Undefined variable $students
+[Method: GET, Route: student]
+in APPPATH\Views\students.php on line 11.
+ 1 APPPATH\Views\students.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Views\\students.php', 11)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('students', [], true)
+ 5 APPPATH\Controllers\Student.php(9): view('students')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Student->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4-framework-be27314\\public\\index.php')
+CRITICAL - 2024-07-11 12:25:28 --> ErrorException: Undefined variable $students
+[Method: GET, Route: student]
+in APPPATH\Views\students.php on line 11.
+ 1 APPPATH\Views\students.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Views\\students.php', 11)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('students', [], true)
+ 5 APPPATH\Controllers\Student.php(9): view('students')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Student->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4-framework-be27314\\public\\index.php')
+CRITICAL - 2024-07-11 12:25:32 --> ErrorException: Undefined variable $students
+[Method: GET, Route: student]
+in APPPATH\Views\students.php on line 11.
+ 1 APPPATH\Views\students.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Views\\students.php', 11)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('students', [], true)
+ 5 APPPATH\Controllers\Student.php(9): view('students')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Student->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4-framework-be27314\\public\\index.php')
+CRITICAL - 2024-07-11 12:25:40 --> ErrorException: Undefined variable $students
+[Method: GET, Route: student]
+in APPPATH\Views\students.php on line 11.
+ 1 APPPATH\Views\students.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Views\\students.php', 11)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('students', [], true)
+ 5 APPPATH\Controllers\Student.php(9): view('students')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Student->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4-framework-be27314\\public\\index.php')
+CRITICAL - 2024-07-11 12:25:51 --> ErrorException: Undefined variable $students
+[Method: GET, Route: student]
+in APPPATH\Views\students.php on line 11.
+ 1 APPPATH\Views\students.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Views\\students.php', 11)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('students', [], true)
+ 5 APPPATH\Controllers\Student.php(9): view('students')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Student->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4-framework-be27314\\public\\index.php')
+CRITICAL - 2024-07-11 12:26:08 --> ErrorException: Undefined variable $students
+[Method: GET, Route: student]
+in APPPATH\Views\students.php on line 11.
+ 1 APPPATH\Views\students.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Views\\students.php', 11)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('students', [], true)
+ 5 APPPATH\Controllers\Student.php(9): view('students')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Student->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4-framework-be27314\\public\\index.php')
+CRITICAL - 2024-07-11 12:27:13 --> ErrorException: Undefined variable $students
+[Method: GET, Route: student]
+in APPPATH\Views\students.php on line 11.
+ 1 APPPATH\Views\students.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Views\\students.php', 11)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('students', [], true)
+ 5 APPPATH\Controllers\Student.php(9): view('students')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Student->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4-framework-be27314\\public\\index.php')
+CRITICAL - 2024-07-11 12:27:23 --> ErrorException: Undefined variable $students
+[Method: GET, Route: student]
+in APPPATH\Views\students.php on line 11.
+ 1 APPPATH\Views\students.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Views\\students.php', 11)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('students', [], true)
+ 5 APPPATH\Controllers\Student.php(9): view('students')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Student->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4-framework-be27314\\public\\index.php')
+CRITICAL - 2024-07-11 12:27:49 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "student.php"
+[Method: GET, Route: student]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('student.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('student', [], true)
+ 3 APPPATH\Controllers\Student.php(9): view('student')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Student->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4-framework-be27314\\public\\index.php')
+CRITICAL - 2024-07-11 12:29:08 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "student.php"
+[Method: GET, Route: student]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('student.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('student', [], true)
+ 3 APPPATH\Controllers\Student.php(9): view('student')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Student->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4-framework-be27314\\public\\index.php')
+CRITICAL - 2024-07-11 12:29:16 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "student.php"
+[Method: GET, Route: student]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('student.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('student', [], true)
+ 3 APPPATH\Controllers\Student.php(9): view('student')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Student->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4-framework-be27314\\public\\index.php')
+CRITICAL - 2024-07-11 12:29:27 --> ErrorException: Undefined variable $students
+[Method: GET, Route: student]
+in APPPATH\Views\students.php on line 11.
+ 1 APPPATH\Views\students.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Views\\students.php', 11)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('students', [], true)
+ 5 APPPATH\Controllers\Student.php(9): view('students')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Student->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4-framework-be27314\\public\\index.php')
+CRITICAL - 2024-07-11 12:30:43 --> ErrorException: Undefined variable $students
+[Method: GET, Route: student]
+in APPPATH\Views\students.php on line 11.
+ 1 APPPATH\Views\students.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Views\\students.php', 11)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\wamp64\\www\\codeigniter4-framework-be27314\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('students', [], true)
+ 5 APPPATH\Controllers\Student.php(9): view('students')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Student->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4-framework-be27314\\public\\index.php')
+CRITICAL - 2024-07-11 12:31:17 --> Error: Class "App\Controllers\Student_model" not found
+[Method: GET, Route: student]
+in APPPATH\Controllers\Student.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Student->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4-framework-be27314\\public\\index.php')
+ERROR - 2024-07-11 12:31:44 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: YES) in C:\wamp64\www\codeigniter4-framework-be27314\system\Database\MySQLi\Connection.php:187
+Stack trace:
+#0 C:\wamp64\www\codeigniter4-framework-be27314\system\Database\MySQLi\Connection.php(187): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 C:\wamp64\www\codeigniter4-framework-be27314\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\codeigniter4-framework-be27314\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\codeigniter4-framework-be27314\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\codeigniter4-framework-be27314\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\codeigniter4-framework-be27314\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\wamp64\www\codeigniter4-framework-be27314\app\Models\Student_Model.php(30): CodeIgniter\BaseModel->findAll()
+#7 C:\wamp64\www\codeigniter4-framework-be27314\app\Controllers\Student.php(12): App\Models\Student_model->get_students()
+#8 C:\wamp64\www\codeigniter4-framework-be27314\system\CodeIgniter.php(933): App\Controllers\Student->index()
+#9 C:\wamp64\www\codeigniter4-framework-be27314\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+#10 C:\wamp64\www\codeigniter4-framework-be27314\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\codeigniter4-framework-be27314\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\wamp64\www\codeigniter4-framework-be27314\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\wamp64\www\codeigniter4-framework-be27314\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\wamp64\www\codeigniter4-framework-be27314\system\rewrite.php(44): require_once('C:\\wamp64\\www\\c...')
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: YES) in C:\wamp64\www\codeigniter4-framework-be27314\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\wamp64\www\codeigniter4-framework-be27314\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\codeigniter4-framework-be27314\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\codeigniter4-framework-be27314\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\codeigniter4-framework-be27314\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\wamp64\www\codeigniter4-framework-be27314\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\wamp64\www\codeigniter4-framework-be27314\app\Models\Student_Model.php(30): CodeIgniter\BaseModel->findAll()
+#6 C:\wamp64\www\codeigniter4-framework-be27314\app\Controllers\Student.php(12): App\Models\Student_model->get_students()
+#7 C:\wamp64\www\codeigniter4-framework-be27314\system\CodeIgniter.php(933): App\Controllers\Student->index()
+#8 C:\wamp64\www\codeigniter4-framework-be27314\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+#9 C:\wamp64\www\codeigniter4-framework-be27314\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\wamp64\www\codeigniter4-framework-be27314\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\wamp64\www\codeigniter4-framework-be27314\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\wamp64\www\codeigniter4-framework-be27314\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 C:\wamp64\www\codeigniter4-framework-be27314\system\rewrite.php(44): require_once('C:\\wamp64\\www\\c...')
+#14 {main}
+CRITICAL - 2024-07-11 12:31:48 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: YES)
+[Method: GET, Route: student]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `students`', [], false)
+ 3 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\Student_Model.php(30): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Student.php(12): App\Models\Student_model->get_students()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Student->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4-framework-be27314\\public\\index.php')
+ERROR - 2024-07-11 12:33:05 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: YES) in C:\wamp64\www\codeigniter4-framework-be27314\system\Database\MySQLi\Connection.php:187
+Stack trace:
+#0 C:\wamp64\www\codeigniter4-framework-be27314\system\Database\MySQLi\Connection.php(187): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 C:\wamp64\www\codeigniter4-framework-be27314\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\codeigniter4-framework-be27314\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\codeigniter4-framework-be27314\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\codeigniter4-framework-be27314\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\codeigniter4-framework-be27314\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\wamp64\www\codeigniter4-framework-be27314\app\Models\Student_Model.php(30): CodeIgniter\BaseModel->findAll()
+#7 C:\wamp64\www\codeigniter4-framework-be27314\app\Controllers\Student.php(12): App\Models\Student_model->get_students()
+#8 C:\wamp64\www\codeigniter4-framework-be27314\system\CodeIgniter.php(933): App\Controllers\Student->index()
+#9 C:\wamp64\www\codeigniter4-framework-be27314\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+#10 C:\wamp64\www\codeigniter4-framework-be27314\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\codeigniter4-framework-be27314\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\wamp64\www\codeigniter4-framework-be27314\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\wamp64\www\codeigniter4-framework-be27314\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\wamp64\www\codeigniter4-framework-be27314\system\rewrite.php(44): require_once('C:\\wamp64\\www\\c...')
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: YES) in C:\wamp64\www\codeigniter4-framework-be27314\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\wamp64\www\codeigniter4-framework-be27314\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\codeigniter4-framework-be27314\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\codeigniter4-framework-be27314\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\codeigniter4-framework-be27314\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\wamp64\www\codeigniter4-framework-be27314\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\wamp64\www\codeigniter4-framework-be27314\app\Models\Student_Model.php(30): CodeIgniter\BaseModel->findAll()
+#6 C:\wamp64\www\codeigniter4-framework-be27314\app\Controllers\Student.php(12): App\Models\Student_model->get_students()
+#7 C:\wamp64\www\codeigniter4-framework-be27314\system\CodeIgniter.php(933): App\Controllers\Student->index()
+#8 C:\wamp64\www\codeigniter4-framework-be27314\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+#9 C:\wamp64\www\codeigniter4-framework-be27314\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\wamp64\www\codeigniter4-framework-be27314\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\wamp64\www\codeigniter4-framework-be27314\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\wamp64\www\codeigniter4-framework-be27314\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 C:\wamp64\www\codeigniter4-framework-be27314\system\rewrite.php(44): require_once('C:\\wamp64\\www\\c...')
+#14 {main}
+CRITICAL - 2024-07-11 12:33:08 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: YES)
+[Method: GET, Route: student]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `students`', [], false)
+ 3 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\Student_Model.php(30): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Student.php(12): App\Models\Student_model->get_students()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Student->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4-framework-be27314\\public\\index.php')
+ERROR - 2024-07-11 12:36:27 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: YES) in C:\wamp64\www\codeigniter4-framework-be27314\system\Database\MySQLi\Connection.php:187
+Stack trace:
+#0 C:\wamp64\www\codeigniter4-framework-be27314\system\Database\MySQLi\Connection.php(187): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 C:\wamp64\www\codeigniter4-framework-be27314\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\codeigniter4-framework-be27314\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\codeigniter4-framework-be27314\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\codeigniter4-framework-be27314\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\codeigniter4-framework-be27314\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\wamp64\www\codeigniter4-framework-be27314\app\Models\Student_Model.php(30): CodeIgniter\BaseModel->findAll()
+#7 C:\wamp64\www\codeigniter4-framework-be27314\app\Controllers\Student.php(12): App\Models\Student_model->get_students()
+#8 C:\wamp64\www\codeigniter4-framework-be27314\system\CodeIgniter.php(933): App\Controllers\Student->index()
+#9 C:\wamp64\www\codeigniter4-framework-be27314\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+#10 C:\wamp64\www\codeigniter4-framework-be27314\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\codeigniter4-framework-be27314\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\wamp64\www\codeigniter4-framework-be27314\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\wamp64\www\codeigniter4-framework-be27314\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\wamp64\www\codeigniter4-framework-be27314\system\rewrite.php(44): require_once('C:\\wamp64\\www\\c...')
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: YES) in C:\wamp64\www\codeigniter4-framework-be27314\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\wamp64\www\codeigniter4-framework-be27314\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\codeigniter4-framework-be27314\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\codeigniter4-framework-be27314\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\codeigniter4-framework-be27314\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\wamp64\www\codeigniter4-framework-be27314\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\wamp64\www\codeigniter4-framework-be27314\app\Models\Student_Model.php(30): CodeIgniter\BaseModel->findAll()
+#6 C:\wamp64\www\codeigniter4-framework-be27314\app\Controllers\Student.php(12): App\Models\Student_model->get_students()
+#7 C:\wamp64\www\codeigniter4-framework-be27314\system\CodeIgniter.php(933): App\Controllers\Student->index()
+#8 C:\wamp64\www\codeigniter4-framework-be27314\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+#9 C:\wamp64\www\codeigniter4-framework-be27314\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\wamp64\www\codeigniter4-framework-be27314\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\wamp64\www\codeigniter4-framework-be27314\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\wamp64\www\codeigniter4-framework-be27314\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 C:\wamp64\www\codeigniter4-framework-be27314\system\rewrite.php(44): require_once('C:\\wamp64\\www\\c...')
+#14 {main}
+CRITICAL - 2024-07-11 12:36:30 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: YES)
+[Method: GET, Route: student]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `students`', [], false)
+ 3 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\Student_Model.php(30): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Student.php(12): App\Models\Student_model->get_students()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Student->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4-framework-be27314\\public\\index.php')
+ERROR - 2024-07-11 12:36:40 --> mysqli_sql_exception: Table 'crude_codeignater.students' doesn't exist in C:\wamp64\www\codeigniter4-framework-be27314\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\wamp64\www\codeigniter4-framework-be27314\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\wamp64\www\codeigniter4-framework-be27314\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\wamp64\www\codeigniter4-framework-be27314\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\wamp64\www\codeigniter4-framework-be27314\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\codeigniter4-framework-be27314\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\codeigniter4-framework-be27314\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\wamp64\www\codeigniter4-framework-be27314\app\Models\Student_Model.php(30): CodeIgniter\BaseModel->findAll()
+#7 C:\wamp64\www\codeigniter4-framework-be27314\app\Controllers\Student.php(12): App\Models\Student_model->get_students()
+#8 C:\wamp64\www\codeigniter4-framework-be27314\system\CodeIgniter.php(933): App\Controllers\Student->index()
+#9 C:\wamp64\www\codeigniter4-framework-be27314\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+#10 C:\wamp64\www\codeigniter4-framework-be27314\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\codeigniter4-framework-be27314\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\wamp64\www\codeigniter4-framework-be27314\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\wamp64\www\codeigniter4-framework-be27314\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\wamp64\www\codeigniter4-framework-be27314\system\rewrite.php(44): require_once('C:\\wamp64\\www\\c...')
+#15 {main}
+CRITICAL - 2024-07-11 12:36:56 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'crude_codeignater.students' doesn't exist
+[Method: GET, Route: student]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `students`', [], false)
+ 2 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Models\Student_Model.php(30): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\Student.php(12): App\Models\Student_model->get_students()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Student->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4-framework-be27314\\public\\index.php')
+CRITICAL - 2024-07-11 12:36:56 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'crude_codeignater.students' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `students`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `students`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `students`', [], false)
+ 4 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Models\Student_Model.php(30): CodeIgniter\BaseModel->findAll()
+ 7 APPPATH\Controllers\Student.php(12): App\Models\Student_model->get_students()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Student->index()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4-framework-be27314\\public\\index.php')
+CRITICAL - 2024-07-11 12:36:56 --> [Caused by] mysqli_sql_exception: Table 'crude_codeignater.students' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT *
+FROM `students`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `students`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `students`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `students`', [], false)
+ 5 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Models\Student_Model.php(30): CodeIgniter\BaseModel->findAll()
+ 8 APPPATH\Controllers\Student.php(12): App\Models\Student_model->get_students()
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Student->index()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4-framework-be27314\\public\\index.php')
+ERROR - 2024-07-11 12:40:08 --> mysqli_sql_exception: Table 'crude_codeignater.students' doesn't exist in C:\wamp64\www\codeigniter4-framework-be27314\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\wamp64\www\codeigniter4-framework-be27314\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\wamp64\www\codeigniter4-framework-be27314\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\wamp64\www\codeigniter4-framework-be27314\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\wamp64\www\codeigniter4-framework-be27314\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\codeigniter4-framework-be27314\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\codeigniter4-framework-be27314\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\wamp64\www\codeigniter4-framework-be27314\app\Models\Student_Model.php(30): CodeIgniter\BaseModel->findAll()
+#7 C:\wamp64\www\codeigniter4-framework-be27314\app\Controllers\Student.php(12): App\Models\Student_model->get_students()
+#8 C:\wamp64\www\codeigniter4-framework-be27314\system\CodeIgniter.php(933): App\Controllers\Student->index()
+#9 C:\wamp64\www\codeigniter4-framework-be27314\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+#10 C:\wamp64\www\codeigniter4-framework-be27314\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\codeigniter4-framework-be27314\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\wamp64\www\codeigniter4-framework-be27314\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\wamp64\www\codeigniter4-framework-be27314\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\wamp64\www\codeigniter4-framework-be27314\system\rewrite.php(44): require_once('C:\\wamp64\\www\\c...')
+#15 {main}
+CRITICAL - 2024-07-11 12:40:28 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'crude_codeignater.students' doesn't exist
+[Method: GET, Route: student]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `students`', [], false)
+ 2 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Models\Student_Model.php(30): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\Student.php(12): App\Models\Student_model->get_students()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Student->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4-framework-be27314\\public\\index.php')
+CRITICAL - 2024-07-11 12:40:28 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'crude_codeignater.students' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `students`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `students`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `students`', [], false)
+ 4 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Models\Student_Model.php(30): CodeIgniter\BaseModel->findAll()
+ 7 APPPATH\Controllers\Student.php(12): App\Models\Student_model->get_students()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Student->index()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4-framework-be27314\\public\\index.php')
+CRITICAL - 2024-07-11 12:40:28 --> [Caused by] mysqli_sql_exception: Table 'crude_codeignater.students' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT *
+FROM `students`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `students`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `students`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `students`', [], false)
+ 5 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Models\Student_Model.php(30): CodeIgniter\BaseModel->findAll()
+ 8 APPPATH\Controllers\Student.php(12): App\Models\Student_model->get_students()
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Student->index()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4-framework-be27314\\public\\index.php')
+ERROR - 2024-07-11 12:42:41 --> mysqli_sql_exception: Table 'crude_codeignater.students' doesn't exist in C:\wamp64\www\codeigniter4-framework-be27314\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\wamp64\www\codeigniter4-framework-be27314\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\wamp64\www\codeigniter4-framework-be27314\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\wamp64\www\codeigniter4-framework-be27314\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\wamp64\www\codeigniter4-framework-be27314\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\codeigniter4-framework-be27314\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\codeigniter4-framework-be27314\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\wamp64\www\codeigniter4-framework-be27314\app\Models\Student_Model.php(30): CodeIgniter\BaseModel->findAll()
+#7 C:\wamp64\www\codeigniter4-framework-be27314\app\Controllers\Student.php(12): App\Models\Student_model->get_students()
+#8 C:\wamp64\www\codeigniter4-framework-be27314\system\CodeIgniter.php(933): App\Controllers\Student->index()
+#9 C:\wamp64\www\codeigniter4-framework-be27314\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+#10 C:\wamp64\www\codeigniter4-framework-be27314\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\codeigniter4-framework-be27314\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\wamp64\www\codeigniter4-framework-be27314\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\wamp64\www\codeigniter4-framework-be27314\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\wamp64\www\codeigniter4-framework-be27314\system\rewrite.php(44): require_once('C:\\wamp64\\www\\c...')
+#15 {main}
+CRITICAL - 2024-07-11 12:42:56 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'crude_codeignater.students' doesn't exist
+[Method: GET, Route: student]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `students`', [], false)
+ 2 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Models\Student_Model.php(30): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\Student.php(12): App\Models\Student_model->get_students()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Student->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4-framework-be27314\\public\\index.php')
+CRITICAL - 2024-07-11 12:42:56 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'crude_codeignater.students' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `students`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `students`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `students`', [], false)
+ 4 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Models\Student_Model.php(30): CodeIgniter\BaseModel->findAll()
+ 7 APPPATH\Controllers\Student.php(12): App\Models\Student_model->get_students()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Student->index()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4-framework-be27314\\public\\index.php')
+CRITICAL - 2024-07-11 12:42:56 --> [Caused by] mysqli_sql_exception: Table 'crude_codeignater.students' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT *
+FROM `students`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `students`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `students`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `students`', [], false)
+ 5 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Models\Student_Model.php(30): CodeIgniter\BaseModel->findAll()
+ 8 APPPATH\Controllers\Student.php(12): App\Models\Student_model->get_students()
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Student->index()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\rewrite.php(44): require_once('C:\\wamp64\\www\\codeigniter4-framework-be27314\\public\\index.php')
+CRITICAL - 2024-07-11 12:44:22 --> ErrorException: Cannot declare class App\Database\Migrations\Students, because the name is already in use
+[Method: CLI, Route: migrate]
+in APPPATH\Database\Migrations\2024-07-11-124000_Students.php on line 7.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
