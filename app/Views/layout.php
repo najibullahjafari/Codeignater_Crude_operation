@@ -9,12 +9,12 @@
 </head>
 
 <body>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="/">Admin Panel</a>
-        <a class="navbar-brand" href="/student">Registered students</a>
-        <a class="navbar-brand" href="/student/insert_student">Add student</a>
-        <!-- <a class="navbar-brand" href="/student/insert_student">Edit student</a> -->
-
+    <nav class="shadow-lg navbar navbar-expand-lg navbar-light bg-light">
+        <ul class="navbar-nav">
+            <a class=" nav-link active" href="/">Admin Panel</a>
+            <a class=" nav-link active" href="/student">Registered students</a>
+            <a class=" nav-link active" href="/student/insert_student">Add student</a>
+        </ul>
     </nav>
     <div class="container"></div>
     <div class="row">

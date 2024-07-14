@@ -4,7 +4,7 @@ namespace App\Database\Migrations;
 
 use CodeIgniter\Database\Migration;
 
-class Students extends Migration
+class Province extends Migration
 {
     public function up()
     {

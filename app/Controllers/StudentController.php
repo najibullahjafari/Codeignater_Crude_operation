@@ -12,7 +12,6 @@ class Student extends Controller
 
         return view('students');
     }
-
     public function insert_student()
     {
         $validation = \Config\Services::validation();

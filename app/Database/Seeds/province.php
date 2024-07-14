@@ -1,0 +1,1 @@
+<!-- a seeder to add all province of Afghansitan to province table -->
